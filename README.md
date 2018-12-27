@@ -4,7 +4,7 @@
 ## oh-my-zsh
 
 ### Measuring Overall Startup Time
-
+https://www.growingwiththeweb.com/2018/01/slow-nvm-init.html
 ````
 time  zsh -i -c exit
 ````
